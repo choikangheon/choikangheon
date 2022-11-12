@@ -1,5 +1,5 @@
 [//]: # (![header]&#40;https://capsule-render.vercel.app/api?type=soft&color=_hexcode&height=500&section=header&text=Choi%20Kang%20Heon&fontSize=90&fontColor=FFFFFF&theme=cobalt&#41;)
-![waving](https://capsule-render.vercel.app/api?type=waving&height=500&text=Choi%20Kang%20Heon&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Choi%20Kang%20Heon&fontAlign=50&fontAlignY=40&color=gradient)
 
 
 
