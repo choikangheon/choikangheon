@@ -50,9 +50,9 @@
 <hr>
 
 
-<div style="display: flex; flex-direction: row; ">
- <img style="justify-content: center" class="img" src="https://github-readme-stats.vercel.app/api?username=choikangheon&show_icons=true&theme=radical" /> 
-</div>
+<p align="center">
+ <img style="align-content: center" class="img" src="https://github-readme-stats.vercel.app/api?username=choikangheon&show_icons=true&theme=radical" /> 
+</p>
 
 
 <h3 align="center"> <span>☎️</span> Contact  </h3>
