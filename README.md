@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    📚️ <Strong>Tech Stack</Strong><br>
+    📚️ <h2></h2><Strong>Tech Stack</Strong><br>
 </p>
 <hr>
 <p align="center">
@@ -49,7 +49,9 @@
 
 <hr>
 
-[![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=choikangheon&theme=prussian&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align: center; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=choikangheon&show_icons=true&theme=radical" /> 
+</div>
 
 
 <h3 align="center"> <span>☎️</span> Contact  </h3>
