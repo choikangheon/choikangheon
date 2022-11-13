@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    📚️ <h2></h2><Strong>Tech Stack</Strong><br>
+    📚️ <Strong>Tech Stack</Strong><br>
 </p>
 <hr>
 <p align="center">
