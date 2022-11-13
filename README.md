@@ -49,7 +49,8 @@
 
 <hr>
 
-<div style="text-align: center; flex-direction: row;">
+
+<div style="display: flex; flex-direction: row; justify-content: center">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=choikangheon&show_icons=true&theme=radical" /> 
 </div>
 
